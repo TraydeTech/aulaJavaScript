@@ -6,3 +6,4 @@ form.addEventListener('submit', function(){
     let div = document.querySelector('ul');
     div.innerHTML = div.innerHTML + valor
 })
+

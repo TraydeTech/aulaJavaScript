@@ -1,0 +1,10 @@
+
+
+.loading{
+    width: 0vw;
+    height: 25px;
+    font-style: italic;
+    background-color: red;
+    text-align: center;
+    color: white;
+}
